@@ -1,5 +1,5 @@
 # From-Memes-to-Perps-Analyzing-Capital-Flow-After-the-LIBRA-Scandal
-## Analyzing Capital Flow After the $LIBRA Scandal
+## Analyzing Capital Flow After the $LIBRA Scandal [View Dashboard on Dune](https://dune.com/charchitku/from-memes-to-perps-analyzing-capital-flow-after-the-dollarlibra-scandal)
 
 This dashboard provides insights into the capital flow following the $LIBRA scandal, focusing on its impact on trading volumes, derivatives, and associated revenues.
 
